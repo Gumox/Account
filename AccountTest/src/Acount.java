@@ -1,8 +1,12 @@
 import java.util.*;
 
 public class Acount {
+	
 	private double balance;
-	public int getBalance;
+	public double Account(double b){
+		return balance = b;
+	}
+	public double getBalance;
 	public double money;
 	public void credit () {
 		balance += money;
